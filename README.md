@@ -1,6 +1,4 @@
-A README is a text file that provides an overview of your project.
-
-Some example sections you may want to include are:
+A README is a text file that provides an overview of your project:
 
 ■ A Project Title:- A descriptive title related to the project that may
 interest your prospective employer. Do not title your project
