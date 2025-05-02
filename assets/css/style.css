@@ -117,6 +117,19 @@ span.highlight {
     box-shadow: 0 10px 20px rgba(0, 255, 136, 0.2);
 }
 
+.btn.tertiary {
+    background-color: transparent;
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.btn.tertiary:hover {
+    background-color: var(--primary-color);
+    color: var(--dark-color);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 255, 136, 0.2);
+}
+
 .btn.outline {
     background-color: transparent;
     border-color: var(--light-color);
