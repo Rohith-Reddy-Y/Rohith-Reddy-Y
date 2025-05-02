@@ -1,6 +1,6 @@
 # Rohith Reddy Yarrasani - Cybersecurity Portfolio
 
-![portfolio-screenshot](https://github.com/user-attachments/assets/c9b44216-d691-44f8-a63c-3829405e534b)
+![Screenshot 2025-05-02 134527](https://github.com/user-attachments/assets/162f8f13-4540-48ce-89a6-0b1218a25c1a)
 
 A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements.
 
@@ -83,4 +83,4 @@ Rohith Reddy Yarrasani
 🔗 LinkedIn [Profile/Rohith Reddy Y](www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)  
 💻 GitHub: [Rohith-Reddy-Y](https://github.com/Rohith-Reddy-Y)  
 
------------------------------------------------------------------------------------THE-END-----------------------------------------------------------------------------------
+-------------------------------------------------------------------------------THE-END---------------------------------------------------------------------------
