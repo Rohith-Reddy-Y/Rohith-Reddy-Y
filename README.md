@@ -77,10 +77,10 @@ MIT License - See LICENSE for details.
 
 ## Contact
 
-Rohith Reddy Yarrasani
-📧 rohithreddy.yarrasani@gmail.com
-📞 +91 9513669628
-🔗 LinkedIn [Profile/Rohith Reddy Y](www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)
-💻 GitHub: [Rohith-Reddy-Y](https://github.com/Rohith-Reddy-Y)
+Rohith Reddy Yarrasani  
+📧 rohithreddy.yarrasani@gmail.com  
+📞 +91 9513669628  
+🔗 LinkedIn [Profile/Rohith Reddy Y](www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)  
+💻 GitHub: [Rohith-Reddy-Y](https://github.com/Rohith-Reddy-Y)  
 
 -----------------------------------------------------------------------------------THE-END-----------------------------------------------------------------------------------
