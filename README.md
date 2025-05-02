@@ -1,17 +1,104 @@
-A README is a text file that provides an overview of your project:
+# Rohith Reddy Yarrasani - Cybersecurity Portfolio
 
-■ A Project Title:- A descriptive title related to the project that may
-interest your prospective employer. Do not title your project
-“Portfolio Project”; instead, try adding a title that defines the
-project you have worked on.
+![Portfolio Screenshot](assets/images/portfolio-screenshot.png)
 
-■ A Project Introduction:- Two to three sentences that state the
-problem you solved, the data used for the project, and your
-modeling results.
+A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements.
 
-■ Modeling and Evaluation:- Name and describe the models you
-used for the project and any corresponding evaluation metrics.
+## Features
 
-■ Conclusion:- Your recommendations for solving the problem and a
-description of any future steps you want to take to expand on your
-project.
+- **Modern UI**: Clean, professional design with cybersecurity theme (dark mode with green accents)
+- **Fully Responsive**: Works on all devices from mobile to desktop
+- **Interactive Elements**:
+  - Particle.js background animation
+  - Animated skill bars and circles
+  - Smooth scrolling and navigation
+- **Comprehensive Sections**:
+  - About me with personal introduction
+  - Projects showcase with tags and links
+  - Professional experience timeline
+  - Skills visualization with progress bars
+  - Competitive coding profiles (TryHackMe, LeetCode, etc.)
+  - Contact form with Google Maps integration
+
+## Technologies Used
+
+- **Frontend**:
+  - HTML5, CSS3, JavaScript
+  - Font Awesome for icons
+  - Google Fonts (Space Grotesk, Ubuntu Mono)
+- **Libraries**:
+  - Particles.js for interactive background
+  - ScrollReveal for animations
+
+## Project Structure
+portfolio-website/
+├── assets/
+│ ├── css/
+│ │ ├── animations.css
+│ │ └── style.css
+│ ├── images/
+│ │ └── profile.jpg
+│ ├── js/
+│ │ ├── main.js
+│ │ └── particles.js
+│ └── project-screenshots/
+├── templates/
+│ ├── contact.html
+│ ├── experience.html
+│ ├── index.html
+│ ├── projects.html
+│ └── skills.html
+├── LICENSE
+└── README.md
+
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rohithreddyy/personal-portfolio.git
+   ```
+2. Navigate to the project directory:
+    ```bash
+    cd personal-portfolio
+    ```
+3. Open ```templates/index.html``` in your browser or deploy to GitHub Pages.
+
+## Customization Guide
+
+1. ### Images:
+   * Replace ```assets/images/profile.jpg``` with your profile photo
+   * Add project screenshots to ```assets/project-screenshots/```
+
+2. ### Content:
+   * Update personal info in ```templates/index.html```
+   * Modify projects in ```templates/projects.html```
+   * Edit experience in ```templates/experience.html```
+   * Adjust skills in ```templates/skills.html```
+
+3. ### Styling:
+   * Change colors in ```assets/css/style.css``` (update ```:root``` variables)
+   * Modify animations in ```assets/css/animations.css```
+
+4. ### Configuration:
+   * Update Google Maps embed in ```templates/contact.html```
+   * Adjust particle effects in ```assets/js/particles.js```
+
+## Live Demo
+
+The portfolio is deployed at:
+https://rohithreddyy.github.io
+
+## License
+
+MIT License - See LICENSE for details.
+
+## Contact
+
+Rohith Reddy Yarrasani
+📧 rohithreddy.yarrasani@gmail.com
+📞 +91 9513669628
+🔗 LinkedIn [Profile/Rohith Reddy Y] (www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)
+💻 GitHub: [Rohith-Reddy-Y] (https://github.com/Rohith-Reddy-Y)
+
+-----------------------------------------------------------------------------------THE-END-----------------------------------------------------------------------------------
