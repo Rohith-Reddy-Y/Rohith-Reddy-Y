@@ -69,7 +69,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 ## Live Demo
 
 The portfolio is deployed at:
-https://rohithreddyy.github.io
+[Link](https://rohith-reddy-y.github.io/personal-portfolio/)
 
 ## License
 
