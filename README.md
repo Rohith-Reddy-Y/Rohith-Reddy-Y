@@ -1,6 +1,6 @@
 # Rohith Reddy Yarrasani - Cybersecurity Portfolio
 
-[Portfolio Screenshot](portfolio-screenshot.png)
+![Portfolio Screenshot](assets/images/project-screenshots/portfolio-screenshot.png)
 
 A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements.
 
@@ -98,7 +98,7 @@ MIT License - See LICENSE for details.
 Rohith Reddy Yarrasani
 📧 rohithreddy.yarrasani@gmail.com
 📞 +91 9513669628
-🔗 LinkedIn [Profile/Rohith Reddy Y] (www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)
-💻 GitHub: [Rohith-Reddy-Y] (https://github.com/Rohith-Reddy-Y)
+🔗 LinkedIn [Profile/Rohith Reddy Y](www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)
+💻 GitHub: [Rohith-Reddy-Y](https://github.com/Rohith-Reddy-Y)
 
 -----------------------------------------------------------------------------------THE-END-----------------------------------------------------------------------------------
