@@ -1,6 +1,6 @@
 # Rohith Reddy Yarrasani - Cybersecurity Portfolio
 
-![Portfolio Screenshot](assets/images/project-screenshots/portfolio-screenshot.png)
+![Portfolio Screenshot](Portfolio-Document\assets\images\project-screenshots\portfolio-screenshot.png)
 
 A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements.
 
