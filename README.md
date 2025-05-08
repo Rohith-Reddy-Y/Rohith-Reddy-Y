@@ -10,7 +10,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 - **Fully Responsive**: Works on all devices from mobile to desktop
 - **Interactive Elements**:
   - Particle.js background animation
-  - Animated skill bars and circles.
+  - Animated skill bars and circles..
   - Smooth scrolling and navigation.
 - **Comprehensive Sections**:
   - About me with personal introduction
