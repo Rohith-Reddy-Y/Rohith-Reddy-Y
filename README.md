@@ -23,7 +23,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 ## Technologies Used
 
 - **Frontend**:
-  - HTML5, CSS3, JavaScript
+  - HTML5, CSS3, JavaScript.
   - Font Awesome for icons
   - Google Fonts (Space Grotesk, Ubuntu Mono).
 - **Libraries**:
