@@ -1,8 +1,8 @@
 # Rohith Reddy Yarrasani - Cybersecurity Portfolio
 
-![portfolio-screenshot](https://github.com/user-attachments/assets/c9b44216-d691-44f8-a63c-3829405e534b)
+![Screenshot 2025-05-02 134527](https://github.com/user-attachments/assets/162f8f13-4540-48ce-89a6-0b1218a25c1a)
 
-A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements.
+A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements...
 
 ## Features
 
@@ -10,22 +10,22 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 - **Fully Responsive**: Works on all devices from mobile to desktop
 - **Interactive Elements**:
   - Particle.js background animation
-  - Animated skill bars and circles
-  - Smooth scrolling and navigation
+  - Animated skill bars and circles..
+  - Smooth scrolling and navigation..,
 - **Comprehensive Sections**:
   - About me with personal introduction
   - Projects showcase with tags and links
   - Professional experience timeline
-  - Skills visualization with progress bars
+  - Skills visualization with progress bars.
   - Competitive coding profiles (TryHackMe, LeetCode, etc.)
   - Contact form with Google Maps integration
 
 ## Technologies Used
 
 - **Frontend**:
-  - HTML5, CSS3, JavaScript
+  - HTML5, CSS3, JavaScript.
   - Font Awesome for icons
-  - Google Fonts (Space Grotesk, Ubuntu Mono)
+  - Google Fonts (Space Grotesk, Ubuntu Mono).
 - **Libraries**:
   - Particles.js for interactive background
   - ScrollReveal for animations
@@ -69,7 +69,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 ## Live Demo
 
 The portfolio is deployed at:
-https://rohithreddyy.github.io
+[Link](https://rohith-reddy-y.github.io/personal-portfolio/)
 
 ## License
 
@@ -83,4 +83,4 @@ Rohith Reddy Yarrasani
 🔗 LinkedIn [Profile/Rohith Reddy Y](www.linkedin.com/in/rohith-reddy-yarrasani-00b68a26b)  
 💻 GitHub: [Rohith-Reddy-Y](https://github.com/Rohith-Reddy-Y)  
 
------------------------------------------------------------------------------------THE-END-----------------------------------------------------------------------------------
+---------------------THE-END---------------------
