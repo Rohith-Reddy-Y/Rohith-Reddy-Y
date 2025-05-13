@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/animations.css">
+    <link rel="stylesheet" href="./assets/css/animations.css">
 </head>
 <body>
     <div id="particles-js"></div>
@@ -38,36 +38,25 @@
                 <div class="section-header">
                     <h2>My <span>Projects</span></h2>
                     <div class="divider"></div>
-                    <p class="section-description">Here are some of my notable projects showcasing my skills in cybersecurity, web development, and malware analysis.</p>
+                    <p class="section-description">Explore my work across different domains. Each project represents a unique challenge and learning experience.</p>
+                    
+                    <!-- Project Filter -->
+                    <div class="project-filter">
+                        <button class="filter-btn active" data-filter="all">All Projects</button>
+                        <button class="filter-btn" data-filter="cyber">Cybersecurity</button>
+                        <button class="filter-btn" data-filter="ai">AI/ML</button>
+                        <button class="filter-btn" data-filter="dev">Development</button>
+                    </div>
                 </div>
 
                 <div class="projects-grid">
-                    <div class="project-card">
-                        <div class="project-image">
-                            <img src="assets/images/project-screenshots/hifi-delivery.jpg" alt="HiFi Delivery Eats">
-                            <div class="project-links">
-                                <a href="#" class="link-icon"><i class="fas fa-external-link-alt"></i></a>
-                                <a href="#" class="link-icon"><i class="fab fa-github"></i></a>
-                            </div>
-                        </div>
-                        <div class="project-info">
-                            <h3>HiFi Delivery Eats</h3>
-                            <p>Designed a fine-dining delivery platform with user authentication, role-based access, and real-time order tracking using Flask, SQLAlchemy, and JavaScript to improve data security and operational efficiency.</p>
-                            <div class="project-tags">
-                                <span>Flask</span>
-                                <span>SQLAlchemy</span>
-                                <span>JavaScript</span>
-                                <span>Security</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
+                    <!-- Cybersecurity Projects -->
+                    <div class="project-card" data-category="cyber">
                         <div class="project-image">
                             <img src="assets/images/project-screenshots/malware-lab.jpg" alt="Malware Lab">
                             <div class="project-links">
-                                <a href="#" class="link-icon"><i class="fas fa-external-link-alt"></i></a>
-                                <a href="#" class="link-icon"><i class="fab fa-github"></i></a>
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/Malware-Lab" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
                             </div>
                         </div>
                         <div class="project-info">
@@ -82,31 +71,51 @@
                         </div>
                     </div>
 
-                    <div class="project-card">
+                    <div class="project-card" data-category="cyber">
                         <div class="project-image">
-                            <img src="assets/images/project-screenshots/steg-hub.jpg" alt="StegHub">
+                            <img src="assets/images/project-screenshots/zero-day.jpg" alt="Zero-Day Vulnerability Tool">
                             <div class="project-links">
-                                <a href="#" class="link-icon"><i class="fas fa-external-link-alt"></i></a>
-                                <a href="#" class="link-icon"><i class="fab fa-github"></i></a>
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/Zero-Day-Vulnerability-Exploitation-Detection-Tool" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
                             </div>
                         </div>
                         <div class="project-info">
-                            <h3>StegHub</h3>
-                            <p>Developed a secure media steganography tool using vanilla HTML, CSS, JavaScript for the frontend and Django for backend processing of image, audio, and video file embedding/extraction.</p>
+                            <h3>Zero-Day Vulnerability Detection</h3>
+                            <p>An AI-powered tool to predict and prevent zero-day attacks on firewalls, like Palo Alto's CVE-2024-3400. Uses Python, Wireshark, MITRE ATT&CK datasets, and Docker for real-time anomaly detection.</p>
                             <div class="project-tags">
-                                <span>Django</span>
-                                <span>JavaScript</span>
-                                <span>Steganography</span>
-                                <span>Cryptography</span>
+                                <span>Python</span>
+                                <span>Wireshark</span>
+                                <span>MITRE ATT&CK</span>
+                                <span>Docker</span>
                             </div>
                         </div>
                     </div>
 
-                    <div class="project-card">
+                    <div class="project-card" data-category="cyber">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/steg-hub.jpg" alt="StegHub">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/StegHub" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>StegHub</h3>
+                            <p>StegHub hides files within other files and extracts them using steganography techniques. A secure tool for covert communication and data protection.</p>
+                            <div class="project-tags">
+                                <span>Steganography</span>
+                                <span>Cryptography</span>
+                                <span>Python</span>
+                                <span>Security</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="cyber">
                         <div class="project-image">
                             <img src="assets/images/project-screenshots/ctf-challenges.jpg" alt="CTF Challenges">
                             <div class="project-links">
-                                <a href="#" class="link-icon"><i class="fas fa-external-link-alt"></i></a>
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
                                 <a href="#" class="link-icon"><i class="fab fa-github"></i></a>
                             </div>
                         </div>
@@ -118,6 +127,168 @@
                                 <span>Penetration Testing</span>
                                 <span>Reverse Engineering</span>
                                 <span>Cryptography</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- AI/ML Projects -->
+                    <div class="project-card" data-category="ai">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/ai-networking.jpg" alt="AI-ML for Networking">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/AI-ML_for_Networking" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>AI/ML for Networking</h3>
+                            <p>Exploring applications of artificial intelligence and machine learning in network optimization, security, and performance monitoring.</p>
+                            <div class="project-tags">
+                                <span>Python</span>
+                                <span>TensorFlow</span>
+                                <span>Network Security</span>
+                                <span>Machine Learning</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="ai">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/deskmate.jpg" alt="DeskMate AI">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/DeskMate-AI" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>DeskMate AI</h3>
+                            <p>Voice-controlled desktop assistant that lets users interact with their system through voice or text commands. Supports multi-language input and ensures security with biometric authentication.</p>
+                            <div class="project-tags">
+                                <span>Python</span>
+                                <span>Natural Language Processing</span>
+                                <span>Voice Recognition</span>
+                                <span>Biometrics</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Development Projects -->
+                    <div class="project-card" data-category="dev">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/hifi-delivery.png" alt="HiFi Delivery Eats">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/HiFi_Delivery_Eats" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>HiFi Delivery Eats</h3>
+                            <p>Designed a fine-dining delivery platform with user authentication, role-based access, and real-time order tracking using Flask, SQLAlchemy, and JavaScript to improve data security and operational efficiency.</p>
+                            <div class="project-tags">
+                                <span>Flask</span>
+                                <span>SQLAlchemy</span>
+                                <span>JavaScript</span>
+                                <span>Security</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="dev">
+                        <div class="project-image">
+                            <img src="assets\images\project-screenshots\portfolio-screenshot.png" alt="Personal Portfolio">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/personal-portfolio" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>Personal Portfolio</h3>
+                            <p>Interactive portfolio website showcasing my skills, projects, and experience with modern animations and responsive design.</p>
+                            <div class="project-tags">
+                                <span>HTML5</span>
+                                <span>CSS3</span>
+                                <span>JavaScript</span>
+                                <span>Responsive Design</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="dev">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/weavecraft.jpg" alt="WeaveCraft">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/WeaveCraft" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>WeaveCraft</h3>
+                            <p>E-commerce platform for traditional handloom products with features like virtual try-on and artisan stories.</p>
+                            <div class="project-tags">
+                                <span>React</span>
+                                <span>Node.js</span>
+                                <span>MongoDB</span>
+                                <span>E-commerce</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="dev">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/anonconnect.jpg" alt="AnonConnect">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/AnonConnect" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>AnonConnect</h3>
+                            <p>A privacy-first platform for anonymous chats, voice, and video calls using random 4-digit codes. No traces, no history.</p>
+                            <div class="project-tags">
+                                <span>WebRTC</span>
+                                <span>Socket.io</span>
+                                <span>Privacy</span>
+                                <span>Real-time</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="dev">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/messenger.jpg" alt="Personal Messenger">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/Personal_Messenger" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>Personal Messenger</h3>
+                            <p>Secure, private conversations that disappear once you disconnect—because privacy matters.</p>
+                            <div class="project-tags">
+                                <span>End-to-End Encryption</span>
+                                <span>WebSockets</span>
+                                <span>Privacy</span>
+                                <span>JavaScript</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card" data-category="dev">
+                        <div class="project-image">
+                            <img src="assets/images/project-screenshots/music.jpg" alt="MyMelodySpace">
+                            <div class="project-links">
+                                <a href="#" class="link-icon live-demo"><i class="fas fa-eye"></i></a>
+                                <a href="https://github.com/Rohith-Reddy-Y/MyMelodySpace" target="_blank" class="link-icon"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3>MyMelodySpace</h3>
+                            <p>Personal music streaming website with custom playlists, recommendations, and audio visualization.</p>
+                            <div class="project-tags">
+                                <span>JavaScript</span>
+                                <span>Web Audio API</span>
+                                <span>Music</span>
+                                <span>UI/UX</span>
                             </div>
                         </div>
                     </div>
@@ -155,7 +326,7 @@
             <div class="footer-bottom">
                 <p>&copy; 2023 Rohith Reddy Yarrasani. All rights reserved.</p>
                 <div class="social-links">
-                    <a href="#"><i class="fab fa-github"></i></a>
+                    <a href="https://github.com/Rohith-Reddy-Y" target="_blank"><i class="fab fa-github"></i></a>
                     <a href="#"><i class="fab fa-linkedin"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
@@ -167,5 +338,64 @@
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="assets/js/particles.js"></script>
     <script src="assets/js/main.js"></script>
+    
+    <script>
+        // Project Filter Functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const filterButtons = document.querySelectorAll('.filter-btn');
+            const projectCards = document.querySelectorAll('.project-card');
+            
+            filterButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    // Remove active class from all buttons
+                    filterButtons.forEach(btn => btn.classList.remove('active'));
+                    // Add active class to clicked button
+                    button.classList.add('active');
+                    
+                    const filterValue = button.getAttribute('data-filter');
+                    
+                    projectCards.forEach(card => {
+                        if (filterValue === 'all' || card.getAttribute('data-category') === filterValue) {
+                            card.style.display = 'block';
+                            card.classList.add('fade-in');
+                        } else {
+                            card.style.display = 'none';
+                            card.classList.remove('fade-in');
+                        }
+                    });
+                });
+            });
+            
+            // Intersection Observer for scroll animations
+            const observerOptions = {
+                threshold: 0.1
+            };
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, observerOptions);
+            
+            document.querySelectorAll('.reveal').forEach(section => {
+                observer.observe(section);
+            });
+            
+            // Add hover effect to project cards
+            projectCards.forEach(card => {
+                card.addEventListener('mouseenter', () => {
+                    card.style.transform = 'translateY(-10px)';
+                    card.style.boxShadow = '0 15px 30px rgba(0, 255, 136, 0.2)';
+                });
+                
+                card.addEventListener('mouseleave', () => {
+                    card.style.transform = 'translateY(0)';
+                    card.style.boxShadow = '0 5px 15px rgba(0, 0, 0, 0.1)';
+                });
+            });
+        });
+    </script>
 </body>
 </html>
