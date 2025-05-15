@@ -16,7 +16,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
   - About me with personal introduction
   - Projects showcase with tags and links
   - Professional experience timeline
-  - Skills visualization with progress bars.
+  - Skills visualization with progress bars..
   - Competitive coding profiles (TryHackMe, LeetCode, etc.)
   - Contact form with Google Maps integration
 
