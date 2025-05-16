@@ -11,7 +11,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 - **Interactive Elements**:
   - Particle.js background animation
   - Animated skill bars and circles..
-  - Smooth scrolling and navigation..,
+  - Smooth scrolling and navigation..,.
 - **Comprehensive Sections**:
   - About me with personal introduction
   - Projects showcase with tags and links
