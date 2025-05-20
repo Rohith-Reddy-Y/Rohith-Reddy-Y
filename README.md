@@ -34,7 +34,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 
 ![Screenshot 2025-05-02 115000](https://github.com/user-attachments/assets/1b58f851-7169-4a09-a721-fc47199668b4)
 
-## Installation & Setup
+## Installation & Setup.
 
 1. Clone the repository:
    ```bash
