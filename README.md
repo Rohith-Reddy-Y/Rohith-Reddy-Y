@@ -7,23 +7,23 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 ## Features
 
 - **Modern UI**: Clean, professional design with cybersecurity theme (dark mode with green accents)
-- **Fully Responsive**: Works on all devices from mobile to desktop
+- **Fully Responsive**: Works on all devices from mobile to desktop.
 - **Interactive Elements**:
-  - Particle.js background animation
+  - Particle.js background animation...
   - Animated skill bars and circles..
   - Smooth scrolling and navigation..,
 - **Comprehensive Sections**:
   - About me with personal introduction
   - Projects showcase with tags and links
   - Professional experience timeline
-  - Skills visualization with progress bars.
+  - Skills visualization with progress bars...
   - Competitive coding profiles (TryHackMe, LeetCode, etc.)
-  - Contact form with Google Maps integration
+  - Contact form with Google Maps integration.
 
 ## Technologies Used
 
 - **Frontend**:
-  - HTML5, CSS3, JavaScript.
+  - HTML5, CSS3, JavaScript..
   - Font Awesome for icons
   - Google Fonts (Space Grotesk, Ubuntu Mono).
 - **Libraries**:
@@ -34,7 +34,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
 
 ![Screenshot 2025-05-02 115000](https://github.com/user-attachments/assets/1b58f851-7169-4a09-a721-fc47199668b4)
 
-## Installation & Setup
+## Installation & Setup.
 
 1. Clone the repository:
    ```bash
