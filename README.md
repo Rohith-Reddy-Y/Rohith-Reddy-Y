@@ -5,7 +5,7 @@
 A modern, responsive portfolio website showcasing my cybersecurity expertise, projects, and achievements...
 
 ## Features
-
+.
 - **Modern UI**: Clean, professional design with cybersecurity theme (dark mode with green accents)
 - **Fully Responsive**: Works on all devices from mobile to desktop.
 - **Interactive Elements**:
