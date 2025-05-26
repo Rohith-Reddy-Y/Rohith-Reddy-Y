@@ -13,7 +13,7 @@ A modern, responsive portfolio website showcasing my cybersecurity expertise, pr
   - Animated skill bars and circles..
   - Smooth scrolling and navigation..,
 - **Comprehensive Sections**:
-  - About me with personal introduction
+  - About me with personal introduction.
   - Projects showcase with tags and links
   - Professional experience timeline
   - Skills visualization with progress bars...
