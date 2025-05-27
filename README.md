@@ -73,7 +73,7 @@ The portfolio is deployed at:
 
 ## License
 
-MIT License - See LICENSE for details.
+MIT License - See LICENSE for details..
 
 ## Contact
 
