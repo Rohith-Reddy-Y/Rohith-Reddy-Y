@@ -1,57 +1,139 @@
-#
+````markdown
+# Rohith Reddy Yarrasani
 
-<!-- Terminal-like Interface -->
+<!-- Interactive Terminal Simulation -->
+<details>
+  <summary><code>$ whoami</code></summary>
+
+  ```bash
+  rohith-reddy-y
+````
+
+</details>
+
+<details>
+  <summary><code>$ ls</code></summary>
 
 ```bash
-$ whoami
-rohith-reddy-y
-
-$ ls
 📁 projects  📁 contact  📁 certifications  📁 stats
+```
 
-$ cd projects && ls
-📄 CyberSec-Toolkit
-📄 XSS-SQLi-ML-Detector
-📄 GenAI-Stress-Bot
+</details>
+
+<details>
+  <summary><code>$ cd projects && ls</code></summary>
+
+```bash
+📄 CyberSec-Toolkit  
+📄 XSS-SQLi-ML-Detector  
+📄 GenAI-Stress-Bot  
 📄 HiFi-Delivery-Eats
+```
 
-$ cat CyberSec-Toolkit
+</details>
+
+<details>
+  <summary><code>$ cat CyberSec-Toolkit</code></summary>
+
+```bash
 https://github.com/Rohith-Reddy-Y/CyberSec-Toolkit
+```
 
-$ cat XSS-SQLi-ML-Detector
+</details>
+
+<details>
+  <summary><code>$ cat XSS-SQLi-ML-Detector</code></summary>
+
+```bash
 https://github.com/Rohith-Reddy-Y/XSS-SQLi-ML-Detector
+```
 
-$ cat GenAI-Stress-Bot
+</details>
+
+<details>
+  <summary><code>$ cat GenAI-Stress-Bot</code></summary>
+
+```bash
 https://github.com/Rohith-Reddy-Y/GenAI-Stress-Bot
+```
 
-$ cat HiFi-Delivery-Eats
+</details>
+
+<details>
+  <summary><code>$ cat HiFi-Delivery-Eats</code></summary>
+
+```bash
 https://github.com/Rohith-Reddy-Y/HiFi_Delivery_Eats
+```
 
-$ cd ../contact && ls
-📄 LinkedIn
-📄 Email
+</details>
 
-$ cat LinkedIn
+<details>
+  <summary><code>$ cd ../contact && ls</code></summary>
+
+```bash
+📄 LinkedIn  📄 Email
+```
+
+</details>
+
+<details>
+  <summary><code>$ cat LinkedIn</code></summary>
+
+```bash
 https://linkedin.com/in/rohith-reddy
+```
 
-$ cat Email
+</details>
+
+<details>
+  <summary><code>$ cat Email</code></summary>
+
+```bash
 rohithy@protonmail.com
+```
 
-$ cd ../certifications && ls
-📄 TryHackMe
-📄 HackTheBox
+</details>
 
-$ cat TryHackMe
+<details>
+  <summary><code>$ cd ../certifications && ls</code></summary>
+
+```bash
+📄 TryHackMe  📄 HackTheBox
+```
+
+</details>
+
+<details>
+  <summary><code>$ cat TryHackMe</code></summary>
+
+```bash
 https://tryhackme.com/p/B3g1nn3r
+```
 
-$ cat HackTheBox
+</details>
+
+<details>
+  <summary><code>$ cat HackTheBox</code></summary>
+
+```bash
 https://ctf.hackthebox.com/user/profile/396710
+```
 
-$ cd ../stats && ./activity.sh
-> Contributions: ██████████ 400+
-> Followers: ███████ 80+
+</details>
+
+<details>
+  <summary><code>$ cd ../stats && ./activity.sh</code></summary>
+
+```bash
+> Contributions: ██████████ 400+  
+> Followers: ███████ 80+  
 > Badges: Arctic Code Vault | Pull Shark | CTF Specialist
 ```
+
+</details>
+
+---
 
 ![Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Rohith-Reddy-Y) ![GitHub followers](https://img.shields.io/github/followers/Rohith-Reddy-Y?label=Followers\&style=social)
 
@@ -59,24 +141,20 @@ $ cd ../stats && ./activity.sh
 
 ## 🔐 Cybersecurity Arsenal
 
-* Offensive Security & Red Team Operations:
-  ! AI‑based Web Exploitation | Automated Payload Development | CTF Flag Hunter | Bug Bounty Pro
-* Defensive Security & Analysis:
-  ! Advanced Malware Analysis | Reverse Engineering | Memory Forensics | Threat Intel Hunters
-* Security Development:
-
-- Secure Coding (Flask, Python, JS) | Custom Detection Tools | ML‑Driven Vulnerability Scanners
+* **Offensive Security & Red Team:** AI-based Web Exploitation | Payload Dev | CTF Flag Hunter | Bug Bounty Pro
+* **Defensive Security & Analysis:** Malware Analysis | Reverse Eng. | Memory Forensics | Threat Intel
+* **Security Development:** Secure Coding (Flask, Python, JS) | Custom Detection Tools | ML Scanners
 
 ---
 
 ## 🤝 Professional Profile
 
-I'm **Rohith Reddy Yarrasani**, a cybersecurity specialist bridging offensive and defensive strategies with AI-driven solutions. I focus on developing secure systems from both sides of the fence:
+I'm **Rohith Reddy Yarrasani**, a cybersecurity specialist blending offensive tactics with AI-driven defense. I architect secure systems, hunt zero-days, and automate CTF workflows:
 
-* **Expertise**: ML-based XSS/SQLi detection, reverse engineering, secure backend architectures
-* **Research**: Zero‑day hunting, AI poisoning, threat intelligence pipelines
-* **Development**: Flask security tools, CTF automations, secure CI/CD
-* **Community**: Active in CTFs, THM challenges, HTB labs, bug bounty disclosures
+* **Expertise:** ML-powered XSS/SQLi detection, reverse engineering, secure backend engineering
+* **Research:** Zero-day discovery, AI poisoning techniques, threat intelligence pipelines
+* **Development:** Flask security tools, CI/CD protections, CTF automation scripts
+* **Community:** Active in CTFs, THM labs, HTB challenges, and bug bounty programs
 
 ---
 
@@ -84,17 +162,9 @@ I'm **Rohith Reddy Yarrasani**, a cybersecurity specialist bridging offensive an
 
 ## 🛠️ Tech & Security Tool Stack
 
-### Programming & Security Languages
-
-* C++, C, Python, JavaScript, Bash, Assembly, PowerShell, QT
-
-### Web/Data Stack
-
-* HTML5, CSS3, JS, Flask, Tailwind, Bootstrap, Django, MySQL, Git
-
-### Security Environments
-
-* Kali Linux, Debian, Linux, Docker, Burp Suite
+**Languages:** C++, C, Python, JavaScript, Bash, Assembly, PowerShell
+**Web & Data:** HTML5, CSS3, JS, Flask, Django, Tailwind, Bootstrap, MySQL, Git
+**Environments:** Kali Linux, Debian, Docker, Burp Suite, SIEM
 
 ---
 
@@ -103,14 +173,13 @@ I'm **Rohith Reddy Yarrasani**, a cybersecurity specialist bridging offensive an
 1. **CyberSec‑Toolkit** – Python tools for malware analysis + CTF challenge starters
 2. **XSS‑SQLi ML Detector** – Real-time attack classifier using Doc2Vec + RandomForest
 3. **GenAI Stress Bot** – NLP mental wellness chatbot with secure backend in Flask
-4. **HiFi Delivery Eats** – Real-time food delivery app with ML security
+4. **HiFi Delivery Eats** – Real-time food delivery system with ML security
 
 ---
 
 ## 🌐 Cyber Range Participation
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/B3g1nn3r.png)](https://tryhackme.com/p/B3g1nn3r)
-[![Hack The Box](https://www.hackthebox.com/badge/image/396710)](https://ctf.hackthebox.com/user/profile/396710)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/B3g1nn3r.png)](https://tryhackme.com/p/B3g1nn3r)  [![Hack The Box](https://www.hackthebox.com/badge/image/396710)](https://ctf.hackthebox.com/user/profile/396710)
 
 ---
 
@@ -133,5 +202,8 @@ I'm **Rohith Reddy Yarrasani**, a cybersecurity specialist bridging offensive an
 
 ---
 
-📩 **Connect**: [LinkedIn](https://linkedin.com/in/rohith-reddy) • [Email via website](https://rohithy.dev)
-️ OPSEC: Monitor your t
+📩 **Connect:** [LinkedIn](https://linkedin.com/in/rohith-reddy) • [Email via website](https://rohithy.dev)
+⚠️ OPSEC: Monitor your traffic. This profile is pure security operations
+
+```
+```
