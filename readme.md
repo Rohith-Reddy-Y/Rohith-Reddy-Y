@@ -1,53 +1,97 @@
-```bash
+````markdown
 # Rohith Reddy Yarrasani - Interactive Terminal Portfolio
 
-user@portfolio:~$ whoami
-rohith-reddy-yarrasani
-Security Researcher | Red Teamer | AI Security Specialist
+Welcome to my interactive terminal. Click each command to reveal output!
 
-user@portfolio:~$ ls
-📁 projects/    📁 contact/     📁 certs/       📁 skills/
-📁 research/    📁 stats/      📁 blog/        📁 achievements/
+<details>
+  <summary><code>whoami</code></summary>
+  ```bash
+  rohith-reddy-y
+````
 
-user@portfolio:~$ cd projects && ls -l
-total 16
-drwxr-xr-x 2 root root 4096 Jun 15  📁 CyberSec-Toolkit/
-drwxr-xr-x 2 root root 4096 Jun 15  📁 XSS-SQLi-ML-Detector/
-drwxr-xr-x 2 root root 4096 Jun 15  📁 GenAI-Stress-Bot/
-drwxr-xr-x 2 root root 4096 Jun 15  📁 HiFi-Delivery-Eats/
+</details>
 
-user@portfolio:~/projects$ cat CyberSec-Toolkit/README.md
-# CyberSec Toolkit
-Python security utilities for vulnerability scanning, payload generation, and CTF automation.
-🔗 GitHub: https://github.com/Rohith-Reddy-Y/CyberSec-Toolkit
+<details>
+  <summary><code>ls</code></summary>
+  ```bash
+  projects/  contact/  certs/  stats/  research/  blog/  achievements/
+  ```
+</details>
 
-user@portfolio:~/projects$ cd ../contact && ls
-📄 email.txt    📄 linkedin.txt  📄 twitter.txt  📄 website.txt
+<details>
+  <summary><code>cd projects && ls -l</code></summary>
+  ```bash
+  total 16
+  drwxr-xr-x 2 user user 4096 Jun 15 CyberSec-Toolkit/
+  drwxr-xr-x 2 user user 4096 Jun 15 XSS-SQLi-ML-Detector/
+  drwxr-xr-x 2 user user 4096 Jun 15 GenAI-Stress-Bot/
+  drwxr-xr-x 2 user user 4096 Jun 15 HiFi-Delivery-Eats/
+  ```
+</details>
 
-user@portfolio:~/contact$ cat email.txt
-rohithy@protonmail.com
+<details>
+  <summary><code>cat projects/CyberSec-Toolkit/README.md</code></summary>
+  ```markdown
+  # CyberSec Toolkit
+  Python security utilities for vulnerability scanning, payload generation, and CTF automation.
+  🔗 https://github.com/Rohith-Reddy-Y/CyberSec-Toolkit
+  ```
+</details>
 
-user@portfolio:~/contact$ cat linkedin.txt
-https://linkedin.com/in/rohith-reddy
+<details>
+  <summary><code>cd ../contact && ls</code></summary>
+  ```bash
+  email.txt  linkedin.txt  twitter.txt  website.txt
+  ```
+</details>
 
-user@portfolio:~/contact$ cd ../stats && ./profile.sh
-=== SECURITY STATS ===
-🛡️  CTF Rank: Top 5% HTB
-🔓 Vulnerabilities Found: 42
-🏆 Certifications: eJPT | THM Top 1%
-💻 Code Contributions: 400+
-🌐 Blog Posts: 15 technical writeups
+<details>
+  <summary><code>cat contact/linkedin.txt</code></summary>
+  ```text
+  https://linkedin.com/in/rohith-reddy
+  ```
+</details>
 
-user@portfolio:~/stats$ cd ../skills && ls
-📄 languages.txt  📄 tools.txt     📄 methodologies.txt
+<details>
+  <summary><code>cat contact/email.txt</code></summary>
+  ```text
+  rohithy@protonmail.com
+  ```
+</details>
 
-user@portfolio:~/skills$ cat languages.txt
-Python (Flask, Django) | C/C++ | JavaScript | Bash | Assembly | PowerShell
+<details>
+  <summary><code>cd ../certs && ls</code></summary>
+  ```bash
+  TryHackMe.txt  HackTheBox.txt
+  ```
+</details>
 
-user@portfolio:~/skills$ cat tools.txt
-Burp Suite | Ghidra | IDA Pro | Metasploit | Wireshark | Docker | SIEM
+<details>
+  <summary><code>cat certs/TryHackMe.txt</code></summary>
+  ```text
+  https://tryhackme.com/p/B3g1nn3r
+  ```
+</details>
 
-user@portfolio:~$ exit
-Session terminated. Connect with me:
-🔗 https://github.com/Rohith-Reddy-Y
-📧 rohithy@protonmail.com
+<details>
+  <summary><code>cat certs/HackTheBox.txt</code></summary>
+  ```text
+  https://ctf.hackthebox.com/user/profile/396710
+  ```
+</details>
+
+<details>
+  <summary><code>cd ../stats && ./activity.sh</code></summary>
+  ```bash
+  > Contributions: ██████████ 400+
+  > Followers: ███████ 80+
+  > Badges: Arctic Code Vault | Pull Shark | CTF Specialist
+  ```
+</details>
+
+---
+
+![Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Rohith-Reddy-Y) ![Followers](https://img.shields.io/github/followers/Rohith-Reddy-Y?label=Followers\&style=social)
+
+```
+```
