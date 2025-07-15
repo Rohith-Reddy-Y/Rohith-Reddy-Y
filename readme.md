@@ -1,71 +1,84 @@
-<!-- Typing SVG Animation -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+I'm+Rohith+Reddy+Yarrasani+🚀;Cybersecurity+%7C+AI+%7C+Full+Stack+Nerd;Always+Hacking+Something...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=33FFCC&center=true&vCenter=true&lines=Hey+I'm+Rohith+Reddy+Yarrasani;Cybersecurity+Researcher+%7C+AI+Enthusiast;CTF+Player+%7C+SecDev+Engineer+%7C+Full-Stack+Dev">
 </p>
 
-<h2 align="center">Rohith Reddy Yarrasani</h2>
-<p align="center"><b>Cybersecurity | ML for Networking | GenAI | Full-Stack Developer</b></p>
+<h2 align="center">🔐 Rohith Reddy Yarrasani</h2>
+<p align="center">
+  <code>Cybersecurity | AI for Networking | Reverse Engineering | GenAI | Flask Dev</code>
+</p>
 
 ---
 
 ```bash
 $ whoami
-> rohith@cybersec:~$ Rohith Reddy Yarrasani — Security & AI Engineer
+> rohith@zero-day:~$ Cyberwarrior | GenAI Security Dev | Security Coder
 
 $ ./skills.sh --top
-> [✓] AI-based SQLi & XSS Detection
-> [✓] Flask | Docker | Burp Suite | CTFs
-> [✓] Python | Scikit-Learn | Linux | Threat Detection
+> [✓] SQLi/XSS ML Detection | Reverse Engineering | Threat Modeling
+> [✓] Python • Flask • Docker • Burp Suite • Scikit-learn
+> [✓] CTFs | GenAI Research | Security Automation
 
-$ ps aux | grep active-projects
-> ACTIVE: HiFi Eats | GenAI Wellness Bot | ML Intrusion Detector | CTF Engine
+$ ps -aux | grep active
+> ACTIVE: HiFi Eats ⚡ | GenAI Wellness Bot 🤖 | ThreatML Detector 🔥
 
 $ cat /etc/passwd | grep contact
-> GitHub: Rohith-Reddy-Y | LinkedIn: rohith-reddy | THM: rohithxploit | Dev: rohithy.dev
+> GitHub: Rohith-Reddy-Y | TryHackMe: B3g1nn3r | LinkedIn: rohith-reddy
 ```
 
 ---
 
-## 🛡️ Cybersecurity + AI Arsenal
+## 🧠 Cyber Arsenal
 
-### 🧠 Offensive Security
-- ✅ Web Exploitation (SQLi, XSS, LFI, RCE)
-- ✅ Reverse Engineering, Malware Analysis
-- ✅ Burp Suite, Payload Crafting, Custom Tools
+```bash
+┌─ Offensive Ops
+│  ├─ Web Exploitation: SQLi, XSS, CSRF, LFI, RCE
+│  ├─ Payload Crafting | Custom Shells | OSINT Recon
+│  └─ Reverse Engineering | Malware Analysis
 
-### 🔐 Defensive Engineering
-- ✅ ML Firewalls for Web App Attacks
-- ✅ Anomaly Detection, Threat Intelligence
-- ✅ Secure Code Practices + Flask-Based Systems
+┌─ Defensive Engineering
+│  ├─ Zero Trust Frameworks | WAF Bypass Detection
+│  ├─ AI-Based Traffic Filtering (Doc2Vec/ML)
+│  └─ Secure Flask APIs | DevSecOps Workflows
 
-### 💻 Tech Stack
-Python • Flask • JavaScript • Scikit-learn • Doc2Vec • Docker • GitHub Actions • Bash
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [HiFi Eats 🍔](https://github.com/Rohith-Reddy-Y/HiFi_Delivery_Eats)
-> Swiggy-style food delivery backend with order assignment visualization & ML integration.
-
-### 🔹 [XSS/SQLi ML Detector 🔒](https://github.com/yourrepo)
-> Real-time detection using Doc2Vec, RandomForest, and fallback to Gemini/GPT APIs.
-
-### 🔹 [GenAI Mental Health Bot 🤖](https://github.com/yourrepo)
-> NLP bot for mental wellness, context-aware guidance, and security-first NLP pipeline.
+┌─ Full Stack Stack
+│  ├─ Python • JS • Flask • Tailwind • Bootstrap
+│  ├─ MongoDB • SQLite • GitHub Actions • Jinja2
+│  └─ Docker • Linux • Netcat • TCPDump • Nmap
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Featured Projects
+
+| 🔹 Project | 🔍 Description |
+|-----------|----------------|
+| [`HiFi Eats`](https://github.com/Rohith-Reddy-Y/HiFi_Delivery_Eats) | Real-world Zomato-like food delivery system with order assignment + ML threat detection |
+| [`XSS & SQLi ML Detector`](https://github.com/yourrepo) | Real-time detection using Doc2Vec + RandomForest + Gemini fallback |
+| [`GenAI Stress Bot`](https://github.com/yourrepo) | AI-powered bot offering contextual stress relief, NLP-based and security-aware |
+
+---
+
+## 🧾 TryHackMe Badge
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-Reddy-Y&show_icons=true&theme=radical&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Reddy-Y&layout=compact&theme=radical" height="150"/>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3095429" width="400" height="300" style="border:none;"></iframe>
+</p>
+
+> 🔗 [My TryHackMe Profile](https://tryhackme.com/p/B3g1nn3r)
+
+---
+
+## 🛠️ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-Reddy-Y&show_icons=true&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Reddy-Y&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
 
-## 🏆 Achievements + Widgets
+## 🏆 GitHub Trophies & Snake
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rohith-Reddy-Y&theme=algolia&column=7" />
@@ -77,70 +90,50 @@ Python • Flask • JavaScript • Scikit-learn • Doc2Vec • Docker • GitH
 
 ---
 
-## 🔭 Current Focus
-
-```bash
-$ uptime --roadmap
-> 🧪 ML Model Optimization for Network Security
-> 🚧 CTF Challenge Generator (OffSec + AI)
-> 🛡️ Red/Blue Team Research + Tool Dev
-```
-
----
-
-## 🧠 CyberWarfare Identity – PHANTOM_RED
+## 🔒 Cyber Identity Terminal
 
 <details>
-<summary>💣 Elite Profile: ShadowFox Collective</summary>
+<summary>🧬 Expand Elite Operator Log</summary>
 
 ```python
-#  ██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ██╗████████╗██╗  ██╗
-# ██╔═══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║╚══██╔══╝██║  ██║
-# ██║   ██║ ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║   ██║   ███████║
-# ██║   ██║  ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗██║   ██║   ██╔══██║
-# ╚██████╔╝   ██║   ██║     ███████╗██║  ██║██║   ██║   ██║  ██║
-#  ╚═════╝    ╚═╝   ▕╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+# EliteCyberOperator Profile - PHANTOM_RED
 
 class EliteCyberOperator:
     def __init__(self):
         self.codename = "PHANTOM_RED"
-        self.clearance = "TS/SCI w/Poly"
+        self.clearance = "TS//SCI/NOFORN"
         self.affiliation = "ShadowFox Collective"
         
-    @property
-    def cyber_arsenal(self):
+    def arsenal(self):
         return {
-            'Offensive Tools': ['Metasploit', 'Cobalt Strike', 'FPGA Cluster'],
-            'Defensive Systems': ['SIEM', 'Zero Trust', 'AI Anomaly Detection'],
-            'Research Focus': ['Adversarial ML', 'Quantum Crypto', 'SCADA Security']
+            "Offensive": ["AI Supply Chain Attacks", "Firmware Exploits", "Phishing Frameworks"],
+            "Defensive": ["Zero Trust", "ML SIEM", "Deception Ops"],
+            "Research": ["LLM Poisoning", "Quantum Crypto", "SCADA Threats"]
         }
 
-    def contact(self):
+    def contact_protocol(self):
         return """
-        ⚠️ SECURE COMMUNICATIONS PROTOCOL ⚠️
-        PGP Fingerprint: [REDACTED]
-        Session Expires: 24h
-        OPSEC Condition: ALPHA
+        ⚠️ SECURE LINE REQUIRED ⚠️
+        PGP Key: [REDACTED]
+        OPSEC: MAX ALPHA
+        Clearance: TOP SECRET
         """
-
-# -- OPERATIONAL STATUS: ACTIVE
-# -- SECURITY CLEARANCE: TOP SECRET//NOFORN
-# -- CVE-2025-XXXX: SCADA Zero-Day
-# -- [CLASSIFIED]: Quantum LLM Poisoning Vector
-
 ```
 
 </details>
 
 ---
 
-## 🤝 Connect with Me
+## 🧠 Security Philosophy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/rohith-reddy)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&style=flat&logoColor=white)](https://tryhackme.com/p/rohithxploit)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://rohithy.dev)
+> “Security is not just a feature.  
+> It’s a mindset, a process, and a responsibility in every single line of code.”  
+> — `rohith@cybersec`
 
 ---
 
-> 💬 “Security is not a feature — it’s a process, a mindset, and a lifestyle.”  
-> 🧠 `01010010 01101111 01101000 01101001 01110100 01101000`
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rohith-reddy)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/B3g1nn3r)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://rohithy.dev)
